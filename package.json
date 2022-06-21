@@ -1,0 +1,14 @@
+{
+  "name": "sassnewproj",
+  "version": "1.0.0",
+  "description": "this is another sample project with Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
